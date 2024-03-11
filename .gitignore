@@ -10,7 +10,6 @@
 
 # production
 /build
-/Assets
 
 # misc
 .DS_Store
@@ -28,3 +27,5 @@ yarn-error.log*
 
 Server/node_modules
 Server/config.js
+
+/src/Assets
